@@ -214,4 +214,4 @@ XePlayer is offered as a full free version with all features and updates include
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-21 15:45:25 UTC
+**Last updated:** 2026-10-21 19:47:55 UTC
